@@ -2,7 +2,7 @@
 
     direction: rtl;
     text-align: right;
-    border: 1px solid;
+    border: .5px solid;
 }
 
 
@@ -12,8 +12,13 @@
 }
 
 body {
-    width: 60%;
-font-size: 17px;
+    
+
+width: 793.7px; 
+height: 1122.5px; 
+margin: 0 auto; 
+
+box-sizing: border-box;
 }
 
 .name {
@@ -46,4 +51,20 @@ font-size: 17px;
 
 .code {
     width: 215px;
+}
+
+.pre1{
+    font-size: 14px;
+}
+
+ .p1 {
+    position: absolute;
+    right: 458px;
+    bottom: 429px;
+} 
+
+.p2 {
+position: absolute;
+right: 452px;
+bottom: 429px;
 }
